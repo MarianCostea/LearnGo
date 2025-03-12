@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"./file2"
+	"github.com/MarianCostea/LearnGo/blob/main/exportValues/file2"
 )
 
 var ExportedValue = "Hello World"
